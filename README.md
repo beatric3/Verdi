@@ -74,6 +74,3 @@ Adicione no arquivo google_maps_api.xml em res/values
 
 Compile e rode no emulador ou dispositivo físico
 
-
-## 📂 Estrutura do Projeto
-
