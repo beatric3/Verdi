@@ -43,21 +43,6 @@ Com ele, o usuário pode explorar receitas, encontrar restaurantes próximos, sa
 - **Layout:** XML com Material Design Components  
 
 ---
-## Estrutura do Projeto
-
-/app
-├── java/com.beatriz.verdi
-│ ├── activities/ Telas do aplicativo
-│ ├── adapters/ Adapters para listas e cards
-│ ├── models/  Classes de dados (Receita, Restaurante, Usuário)
-│ └── utils/ Funções utilitárias
-│
-└── res
-├── layout/ Layouts XML
-├── drawable/  Ícones e imagens
-└── values/  Strings, cores e estilos
-
----
 
 ## Como Executar o Projeto
 
