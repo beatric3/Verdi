@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Verdi</string>
+    <string name="imagem_de_fundo">Imagem de fundo</string>
+    <string name="buscar_receitas">Buscar Receitas</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="restaurantes_proximos">Restaurantes Proximos</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="e_mail">E-mail</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="senha">Senha</string>
+    <string name="logo_app">Logo do Aplicativo</string>
+    <string name="login">Login</string>
+    <string name="nao_tem_conta_cadastre">Não tem uma conta? Cadastre-se</string>
+    <string name="entrar">Entrar</string>
+    <string name="ver_mais">Ver mais</string>
+    <string name="nome_da_receita">Nome da Receita</string>
+    <string name="meu_perfil">Meu Perfil</string>
+    <string name="sair">Sair</string>
+    <string name="email_do_usu_rio">Email do usuário</string>
+    <string name="nome_do_usu_rio">Nome do usuário</string>
+    <string name="perfil">Perfil</string>
+    <string name="restaurantes_pr_ximos">Restaurantes Próximos</string>
+
+</resources>
